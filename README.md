@@ -1,4 +1,4 @@
-# Stock-Trend-Prediction-using-Recurrent-Neural-Networks
+# Stock Trend Prediction using Recurrent Neural Networks (LSTM)
 Predict stock movements and future trends in the Indian Stock market (eg stock used as SBIN) using a Recurrent Neural Network using LSTM (Long Short Term Memory).
 
 There is no need for a csv or excel file to fetch stock data from as the program downloads 10 years' of stock price directly from the NSE.
